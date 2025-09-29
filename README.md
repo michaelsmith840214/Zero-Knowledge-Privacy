@@ -1,2 +1,15 @@
-# Zero-Knowledge-Privacy
-Zero-Knowledge-Privacy
+# Zero Knowledge & Privacy Log (零知识证明与隐私日志)
+
+本仓库用于记录我对零知识证明（ZKPs）、去中心化身份（DID）和隐私保护技术的学习进度和应用。
+
+本仓库旨在：
+1.  追踪新的 ZK 证明系统和隐私保护协议的发布。
+2.  分析如何在不泄露信息的情况下验证身份（如 ZK-SNARKS）。
+
+---
+
+## 👻 查看每日隐私技术研究
+
+所有最新的研究和应用笔记都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
